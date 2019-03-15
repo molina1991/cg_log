@@ -8,4 +8,4 @@
 * Salida 1 - 8 min (Pipi pero en el baño de redsys y despacito, sin prisa)
 * Salida 2 - 16 min (Mojón)
 * Salida 3 - 15 min (Pino)
-* Salida 4 -
+* Salida 4 - 11 min
