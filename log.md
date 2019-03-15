@@ -7,5 +7,5 @@
 ### 15/03/19
 * Salida 1 - 8 min
 * Salida 2 - 16 min
-* Salida 3 -
+* Salida 3 - 15 min
 * Salida 4 -
