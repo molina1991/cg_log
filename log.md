@@ -9,3 +9,9 @@
 * Salida 2 - 16 min (Mojón)
 * Salida 3 - 15 min (Pino)
 * Salida 4 - 11 min
+
+### 18/03/19
+* Salida 1 - 9:41 - 9:52 -> 11 minutos (cagada fijo)
+* Salida 2 - 
+* Salida 3 - 
+* Salida 4 - 
