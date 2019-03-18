@@ -16,4 +16,4 @@
 * Salida 3 - 13:43 - 14:00 -> 17 minutos (Cayose por el váter)
 * Salida 4 - 15:22 - 15:33 -> 11 minutos (cagando - comprobado en persona)
 * Salida 5 - 16:35 - 16:47 -> 12 minutos (... qué va a ser?)
-* Salida 6 - 
+* Salida 6 - 18:15 - 18:XX --> 
