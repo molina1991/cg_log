@@ -12,6 +12,6 @@
 
 ### 18/03/19
 * Salida 1 - 9:41 - 9:52 -> 11 minutos (cagada fijo)
-* Salida 2 - 
-* Salida 3 - 
-* Salida 4 - 
+* Salida 2 - 12:02 - 12:17 -> 15 minutos (mojón de los gordos)
+* Salida 3 - 13:43 - 14:00 -> 17 minutos (Cayose por el váter)
+* Salida 4 - 15:22 - 15:33 -> 11 minutos (cagando - comprobado en persona)
