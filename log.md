@@ -1,3 +1,6 @@
+#### Record salidas: 6
+#### Record minutos: 25
+
 ### 14/03/19
 * Salida 1 - 13 min (cagada seguro)
 * Salida 2 - 3 min (Pipi cerca Redsys)
@@ -17,3 +20,12 @@
 * Salida 4 - 15:22 - 15:33 -> 11 minutos (cagando - comprobado en persona)
 * Salida 5 - 16:35 - 16:47 -> 12 minutos (... qué va a ser?)
 * Salida 6 - 18:15 - 18:40 --> 25 minutos (...)
+
+
+### 19/03/19
+* Salida 1 - 
+* Salida 2 - 
+* Salida 3 - 
+* Salida 4 - 
+* Salida 5 - 
+* Salida 6 - 
