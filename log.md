@@ -18,7 +18,7 @@
 * Salida 1 - 9:41 - 9:52 -> 11 minutos (cagada fijo)
 * Salida 2 - 12:02 - 12:17 -> 15 minutos (mojón de los gordos)
 * Salida 3 - 13:43 - 14:00 -> 17 minutos (Cayose por el váter)
-* Salida 4 - 15:22 - 15:33 -> 11 minutos (cagando - comprobado en persona)
+* Salida 4 - 15:22 - 15:33 -> (11) 3 minutos (cagando - comprobado en persona)
 * Salida 5 - 16:35 - 16:47 -> 12 minutos (... qué va a ser?)
 * Salida 6 - 18:15 - 18:40 --> 25 minutos (...)
 
@@ -27,6 +27,6 @@
 * Salida 1 - 9:22 - 9:31 -> 9 minutos
 * Salida 2 - 12:04 - 12:17 -> 13 minutos
 * Salida 3 - 13:27 - 13:37 -> 10 minutos
-* Salida 4 - 
-* Salida 5 - 
+* Salida 4 - 15:30 - 15:32 -> 2 minutos*** Probablemente sean 15+ pero era tiempo de comida.
+* Salida 5 - 17:36 - 17:49 -> 13 minutos
 * Salida 6 - 
