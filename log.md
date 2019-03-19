@@ -23,7 +23,7 @@
 
 
 ### 19/03/19
-* Salida 1 - 
+* Salida 1 - 9:22 - 9:31 -> 9 minutos
 * Salida 2 - 
 * Salida 3 - 
 * Salida 4 - 
