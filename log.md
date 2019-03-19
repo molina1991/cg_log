@@ -29,4 +29,4 @@
 * Salida 3 - 13:27 - 13:37 -> 10 minutos
 * Salida 4 - 15:30 - 15:32 -> 2 minutos*** Probablemente sean 15+ pero era tiempo de comida.
 * Salida 5 - 17:36 - 17:49 -> 13 minutos
-* Salida 6 - 
+* Salida 6 - 18:48 - 18:59 -> 11 minutos
