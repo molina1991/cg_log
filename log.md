@@ -13,7 +13,7 @@
 * Salida 3 - 15 min (Pino)
 * Salida 4 - 11 min
 
-### 18/03/19
+### 18/03/19 (Lunes)
 * Salida 1 - 9:41 - 9:52 -> 11 minutos (cagada fijo)
 * Salida 2 - 12:02 - 12:17 -> 15 minutos (mojón de los gordos)
 * Salida 3 - 13:43 - 14:00 -> 17 minutos (Cayose por el váter)
@@ -22,7 +22,7 @@
 * Salida 6 - 18:15 - 18:40 --> 25 minutos (...)
 
 
-### 19/03/19
+### 19/03/19 (Martes)
 * Salida 1 - 9:22 - 9:31 -> 9 minutos
 * Salida 2 - 12:04 - 12:17 -> 13 minutos
 * Salida 3 - 
