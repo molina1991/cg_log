@@ -1,5 +1,6 @@
 #### Record salidas: 6
 #### Record minutos: 25
+#### Record minutos dia completo: 91
 
 ### 14/03/19
 * Salida 1 - 13 min (cagada seguro)
