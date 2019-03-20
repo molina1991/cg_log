@@ -32,3 +32,4 @@
 
 ### 20/03/19 (Miércoles)
 * Salida 1 - 11:36 - 11:46 -> 10 minutos
+* Salida 2 - 13:59 - 
