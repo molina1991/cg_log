@@ -22,7 +22,6 @@
 * Salida 5 - 16:35 - 16:47 -> 12 minutos (... qué va a ser?)
 * Salida 6 - 18:15 - 18:40 --> 25 minutos (...)
 
-
 ### 19/03/19 (Martes)
 * Salida 1 - 9:22 - 9:31 -> 9 minutos
 * Salida 2 - 12:04 - 12:17 -> 13 minutos
@@ -30,3 +29,6 @@
 * Salida 4 - 15:30 - 15:32 -> 2 minutos*** Probablemente sean 15+ pero era tiempo de comida.
 * Salida 5 - 17:36 - 17:49 -> 13 minutos
 * Salida 6 - 18:48 - 18:59 -> 11 minutos
+
+### 20/03/19 (Miércoles)
+* Salida 1 - 11:36 - 11:46 -> 10 minutos
