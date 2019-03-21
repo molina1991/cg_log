@@ -33,6 +33,7 @@
 ### 20/03/19 (Miércoles)
 * Salida 1 - 11:36 - 11:46 -> 10 minutos
 * Salida 2 - 13:59 - 14:12 -> 12 minutos
+* --- Un mal día lo tiene cualquiera ---
 
 ### 21/03/19 (Jueves)
 * Salida 1 - 9:21 - 9:30 -> 9 minutos
