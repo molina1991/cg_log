@@ -36,4 +36,4 @@
 
 ### 21/03/19 (Jueves)
 * Salida 1 - 9:21 - 9:30 -> 9 minutos
-* Salida 2 - 
+* Salida 2 - 11:47 - 
