@@ -43,4 +43,5 @@
 
 ### 22/03/19 (Viernes)
 * Salida 1 - 12:37 - 12:47 -> 10 minutos
+* Salida 2 - 14:16 - 
 
