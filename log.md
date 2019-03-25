@@ -44,6 +44,6 @@
 * Salida 2 - 14:16 - 14:25 -> 9 minutos
 
 ### 25/03/19 (Lunes)
-* Salida 1 - 9:44 - 
+* Salida 1 - 9:44 - 9:57 -> 13 minutos
 
 
