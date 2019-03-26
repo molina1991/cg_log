@@ -51,4 +51,5 @@
 * Salida 5 - 16:33 - 16:47 -> 14 minutos
 * Salida 6 - 18:11 - 18:23 -> 12 minutos
 
-
+### 26/03/19 (Martes)
+* Salida 1 - 10:56 - 
