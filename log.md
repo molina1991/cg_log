@@ -56,3 +56,4 @@
 * Salida 2 - 12:17 - 12:28 -> 11 minutos
 * Salida 3 - 15:30 - 15:36 -> 6 minutos (se fue a las 15:15 del comedor)
 * Salida 4 - 16:42 - 16:53 -> 11 minutos
+* Salida 5 - 18:01 - 18:11 -> 10 minutos
