@@ -57,3 +57,6 @@
 * Salida 3 - 15:30 - 15:36 -> 6 minutos (se fue a las 15:15 del comedor)
 * Salida 4 - 16:42 - 16:53 -> 11 minutos
 * Salida 5 - 18:01 - 18:11 -> 10 minutos
+
+### 26/03/19 (Martes)
+* Salida 1 - 10:37 - 10:55 -> 18 minutos
