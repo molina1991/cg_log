@@ -64,4 +64,4 @@
 * Salida 2 - 14:56 -  -> 15:00 -> 4 minutos
 
 ### 28/03/19 (Jueves)
-* Salida 1 - 9:53 -  ->  minutos
+* Salida 1 - 9:53 - 10:00 -> 7 minutos
