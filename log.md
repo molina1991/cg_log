@@ -61,7 +61,7 @@
 ### 27/03/19 (Miércoles)
 * Salida 1 - 10:37 - 10:55 -> 18 minutos
 * Salida 2 - 12:44 - 12:54 -> 10 minutos
-* Salida 2 - 14:56 -  -> 15:00 -> 4 minutos
+* Salida 3 - 14:56 - 15:00 -> 4 minutos
 
 ### 28/03/19 (Jueves)
 * Salida 1 - 9:53 - 10:00 -> 7 minutos
