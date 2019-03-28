@@ -61,3 +61,4 @@
 ### 26/03/19 (Martes)
 * Salida 1 - 10:37 - 10:55 -> 18 minutos
 * Salida 2 - 12:44 - 12:54 -> 10 minutos
+* Salida 2 - 14:56 -  -> 15:00 -> 4 minutos
