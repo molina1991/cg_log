@@ -71,4 +71,5 @@
 
 ### 29/03/19 (Viernes)
 * Salida 1 - 9:35 - 9:45 -> 10 minutos
+* Salida 2 - 11:12 - 11:23 -> 11 minutos
 
