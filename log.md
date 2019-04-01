@@ -2,6 +2,7 @@
 #### Record minutos: 25
 #### Record minutos dia completo: 91
 
+## MARZO
 ### 14/03/19
 * Salida 1 - 13 min
 * Salida 2 - 3 min
@@ -73,3 +74,10 @@
 * Salida 1 - 9:35 - 9:45 -> 10 minutos
 * Salida 2 - 11:12 - 11:23 -> 11 minutos
 * Salida 3 - 14:09 - 14:21 -> 12 minutos
+
+
+## Abril
+
+### 01/04/19 (Lunes)
+* Salida 1 -
+
