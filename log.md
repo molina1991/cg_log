@@ -79,5 +79,5 @@
 ## Abril
 
 ### 01/04/19 (Lunes)
-* Salida 1 - 10:56 - 
+* Salida 1 - 10:56 - 11:10 -> 14 minutos
 
