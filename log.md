@@ -93,4 +93,5 @@
 
 ### 03/04/19 (Martes)
 * Salida 1 - 9:02 - 9:12 -> 10 minutos
-* Salkida 2 - 11:06 - 11:09 -> 3 minutos
+* Salida 2 - 11:06 - 11:09 -> 3 minutos
+* Salida 3 - 13:00 - 13:08 -> 8 minutos
