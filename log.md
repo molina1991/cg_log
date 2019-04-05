@@ -104,3 +104,5 @@
 
 ### 05/04/19 (Viernes)
 * Salida 1 - 10:43 - 10:54 -> 11 minutos
+* Salida 2 - 13:04 - 13:XX -> 1X minutos
+
