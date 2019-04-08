@@ -110,4 +110,5 @@
 ### 08/04/19 (Lunes)
 * Salida 1 - 9:48 - 9:58 -> 10 minutos
 * Salida 2 - 12:36 - 12:44 -> 8 minutos
-* Salida 3 - 16:41 - 16:XX -> X minutos
+* Salida 3 - 16:42 - 16:53 -> 11 minutos
+
