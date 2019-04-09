@@ -116,3 +116,4 @@
 ### 09/04/19 (Martes)
 * Salida 1 - 10:17 - 10:25 -> 8 minutos
 * Salida 2 - 12:47 - 12:57 -> 10 minutos
+* Salida 3 - 15:30 - 15:36 -> 6 minutos (post comida)
