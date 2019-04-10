@@ -122,4 +122,4 @@
 
 ### 10/04/19 (Miércoles)
 * Salida 1 - 11:02 - 11:12 -> 10 minutos
-* Salida 2 - 12:32 - 1X:XX -> XX minutos
+* Salida 2 - 12:32 - 12:44 -> 12 minutos
