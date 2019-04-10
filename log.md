@@ -121,4 +121,4 @@
 * Salida 5 - 18:17 - 18:26 -> 9 minutos
 
 ### 10/04/19 (Miércoles)
-* Salida 1 - 11:02 - 
+* Salida 1 - 11:02 - 11:12 -> 10 minutos
