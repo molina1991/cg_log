@@ -127,3 +127,4 @@
 
 ### 11/04/19 (Jueves)
 * Salida 1 - 10:48 - 10:55 -> 7 minutos
+* Salida 2 - 13:07 - 13:14 -> 7 minutos
