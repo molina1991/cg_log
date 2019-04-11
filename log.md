@@ -124,3 +124,6 @@
 * Salida 1 - 11:02 - 11:12 -> 10 minutos
 * Salida 2 - 12:32 - 12:44 -> 12 minutos
 * Salida 3 - 14:09 - 14:17 -> 8 minutos
+
+### 11/04/19 (Jueves)
+* Salida 1 - 10:48 - 1X:XX -> X minutos
