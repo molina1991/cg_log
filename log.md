@@ -131,4 +131,4 @@
 * Salida 3 - 14:33 - 14:48 -> 15 minutos
 
 ### 12/04/19 (Viernes)
-* Salida 1 - 10:58 - 11:XX -> X minutos
+* Salida 1 - 10:58 - 11:05 -> 7 minutos
