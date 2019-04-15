@@ -138,4 +138,5 @@
 ### 15/04/19 (Lunes)
 * Salida 1 - 8:41 - 8:48 -> 7 minutos (Hoy llegó 30 min tarde, seguro que no cagó en casa con las prisas)
 * Salida 2 - 13:32- 13:46 -> 14 minutos
+* Salida 3 - 17:22- 17:XX -> XX minutos
 
