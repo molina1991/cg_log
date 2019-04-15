@@ -134,3 +134,8 @@
 * Salida 1 - 10:58 - 11:05 -> 7 minutos
 * Salida 2 - 12:20 - 12:27 -> 7 minutos
 * Salida 3 - 14:09 - 14:17 -> 8 minutos
+
+### 15/04/19 (Lunes)
+* Salida 1 - 8:41 - 8:48 -> 7 minutos
+
+
