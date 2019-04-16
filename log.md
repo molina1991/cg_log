@@ -141,5 +141,5 @@
 * Salida 3 - 17:22- 17:31 -> 9 minutos
 
 ### 15/04/19 (Lunes)
-* Salida 1 - 9:17 - 
+* Salida 1 - 9:17 - 9:26 -> 9 minutos
 
