@@ -150,4 +150,4 @@
 ### 17/04/19 (Miércoles)
 * Salida 1 - 9:43 - 9:51 -> 8 minutos
 * Salida 2 - 11:04 - 11:09 -> 5 minutos
-* Salida 3 - 12:33 - 12:XX -> X minutos
+* Salida 3 - 12:33 - 12:37 -> 4 minutos
