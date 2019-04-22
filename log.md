@@ -157,3 +157,5 @@
 ### 22/04/19 (Lunes)
 * Salida 1 - 9:13 - 9:22 -> 9 minutos
 * Salida 2 - 11:53 - 12:02 -> 9 minutos
+* Salida 3 - 14:13 - 14:23 -> 10 minutos
+* Salida 4 - 
