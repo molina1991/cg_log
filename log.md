@@ -162,6 +162,6 @@
 
 ### 23/04/19 (Martes)
 * Salida 1 - 11:01 - 11:08 -> 7 minutos
-* Salida 2 - 13:15 - 13:XX -> X minutos
+* Salida 2 - 13:15 - 13:23 -> 8 minutos
 
 
