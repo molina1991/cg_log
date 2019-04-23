@@ -164,4 +164,5 @@
 * Salida 1 - 11:01 - 11:08 -> 7 minutos
 * Salida 2 - 13:15 - 13:23 -> 8 minutos
 * Salida 3 - 15:30 - 15:35 -> 5 minutos (* después de comer)
+* Salida 4 - 17:02 - 17:XX -> X minutos
 
