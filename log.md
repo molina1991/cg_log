@@ -170,5 +170,5 @@
 ### 24/04/19 (Miércoles)
 * Salida 1 - 10:10 - 10:17 -> 7 minutos
 * Salida 2 - 11:27 - 11:33 -> 6 minutos
-* Salida 3 - 13:23 - 13:XX -> X minutos
+* Salida 3 - 13:23 - 13:33 -> 10 minutos
 
