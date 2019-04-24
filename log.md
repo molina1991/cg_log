@@ -167,3 +167,6 @@
 * Salida 4 - 17:02 - 17:07 -> 5 minutos (WTF! ¿qué le está pasando hoy?)
 * Salida 5 - 18:19 - 18:23 -> 4 minutos
 
+### 24/04/19 (Miércoles)
+* Salida 1 - 10:10 - 10:XX -> X minutos
+
