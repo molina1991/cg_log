@@ -177,4 +177,4 @@
 * Salida 1 - 09:56 - 10:00 -> 4 minutos (qué cabrón como controla la hora del desayuno)
 * Salida 2 - 11:17 - 11:24 -> 7 minutos
 * Salida 3 - 13:04 - 13:13 -> 9 minutos
-* Salida 4 - 14:24 - 14:XX -> X minutos
+* Salida 4 - 14:24 - 14:37 -> 13 minutos
