@@ -173,3 +173,5 @@
 * Salida 3 - 13:23 - 13:33 -> 10 minutos
 * Salida 4 - 14:14 - 14:26 -> 12 minutos
 
+### 25/04/19 (Jueves)
+* Salida 1 - 09:56 - 09:XX -> X minutos
