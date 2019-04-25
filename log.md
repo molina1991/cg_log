@@ -175,4 +175,4 @@
 
 ### 25/04/19 (Jueves)
 * Salida 1 - 09:56 - 10:00 -> 4 minutos (qué cabrón como controla la hora del desayuno)
-* Salida 2 - 11:17 - 11:   -> X minutos
+* Salida 2 - 11:17 - 11:24 -> 7 minutos
