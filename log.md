@@ -183,3 +183,4 @@
 * Salida 1 - 10:30 - 10:40 -> 10 minutos (al volver del desayuno)
 * Salida 2 - 11:47 - 11:53 -> 6 minutos
 * Salida 3 - 13:15 - 13:27 -> 12 minutos
+* Salida 4 - 14:45 - 14:XX -> XX minutos (nos vamos antes de que vuelva del baño xD)
