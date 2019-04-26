@@ -182,4 +182,4 @@
 ### 26/04/19 (Viernes)
 * Salida 1 - 10:30 - 10:40 -> 10 minutos (al volver del desayuno)
 * Salida 2 - 11:47 - 11:53 -> 6 minutos
-* Salida 3 - 13:15 - 13:XX -> X minutos
+* Salida 3 - 13:15 - 13:27 -> 12 minutos
