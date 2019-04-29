@@ -184,3 +184,6 @@
 * Salida 2 - 11:47 - 11:53 -> 6 minutos
 * Salida 3 - 13:15 - 13:27 -> 12 minutos
 * Salida 4 - 14:45 - 14:XX -> XX minutos (nos vamos antes de que vuelva del baño xD)
+
+### 29/04/19 (Lunes)
+* ESTÁ DE VACACIONES POR EL CONCIERTO, QUE NO PUEDE APARCAR
