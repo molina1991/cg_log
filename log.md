@@ -191,3 +191,4 @@
 ### 30/04/19 (Martes)
 * Salida 1 - 10:40 - 10:48 -> 8 minutos
 * Salida 2 - 12:02 - 12:14 -> 12 minutos
+* Salida 3 - 13:29 - 13:XX -> XX minutos
