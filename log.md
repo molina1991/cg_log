@@ -189,4 +189,4 @@
 * ESTÁ DE VACACIONES POR EL CONCIERTO, QUE NO PUEDE APARCAR
 
 ### 30/04/19 (Martes)
-* Salida 1 - 10:40 - 10:XX -> X minutos
+* Salida 1 - 10:40 - 10:48 -> 8 minutos
