@@ -199,7 +199,7 @@
 
 
 ### 02/05/19 (Jueves)
-* Salida 1 - 10:47 - XX:XX -> X minutos
+* Salida 1 - 10:47 - 11:01 -> 14 minutos
 * Salida X - XX:XX - XX:XX -> X minutos
 * Salida X - XX:XX - XX:XX -> X minutos
 * Salida X - XX:XX - XX:XX -> X minutos
