@@ -193,3 +193,13 @@
 * Salida 2 - 12:02 - 12:14 -> 12 minutos
 * Salida 3 - 13:29 - 13:43 -> 14 minutos
 * Salida 4 - 17:09 - 17:23 -> 14 minutos
+
+
+## Mayo
+
+
+### 02/05/19 (Jueves)
+* Salida X - XX:XX - XX:XX -> X minutos
+* Salida X - XX:XX - XX:XX -> X minutos
+* Salida X - XX:XX - XX:XX -> X minutos
+* Salida X - XX:XX - XX:XX -> X minutos
