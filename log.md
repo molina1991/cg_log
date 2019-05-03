@@ -205,3 +205,4 @@
 
 ### 03/05/19 (Viernes)
 * Salida 1 - 10:52 - 11:04 -> 12 minutos
+* Salida 2 - 12:45 - 1X:XX -> XX minutos
