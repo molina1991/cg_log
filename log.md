@@ -197,8 +197,11 @@
 
 ## Mayo
 
-
 ### 02/05/19 (Jueves)
 * Salida 1 - 10:47 - 11:01 -> 14 minutos
 * Salida 2 - 13:06 - 13:17 -> 11 minutos
 * Salida 3 - 14:25 - 14:35 -> 10 minutos
+
+
+### 03/05/19 (Viernes)
+* Salida 1 - 10:52 - 11:04 -> 12 minutos
