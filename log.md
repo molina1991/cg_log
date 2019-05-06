@@ -209,3 +209,4 @@
 
 ### 06/05/19 (Lunes)
 * Salida 1 - 8:54 - 9:02 -> 8 minutos
+* Salida 2 - 10:44 - 10:XX -> X minutos
