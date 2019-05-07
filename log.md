@@ -216,3 +216,4 @@
 
 ### 07/05/19 (Martes)
 * Salida 1 - 11:00 - 11:08 -> 8 minutos
+* Salida 2 - 12:09 - 12:XX -> X minutos
