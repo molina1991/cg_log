@@ -222,3 +222,4 @@
 
 ### 08/05/19 (Miércoles)
 * Salida 1 - 12:38 - 12:52 -> 14 minutos
+* Salida 2 - 14:38 - 14:46 -> 8 minutos
