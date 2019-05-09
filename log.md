@@ -227,4 +227,4 @@
 ### 09/05/19 (Jueves)
 * Salida 1 - 10:59 - 11:10 -> 11 minutos
 * Salida 2 - 13:02 - 13:13 -> 11 minutos
-* Salida 3 - 14:40 - 14:XX -> XX minutos
+* Salida 3 - 14:40 - 14:45 -> 5 minutos
