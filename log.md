@@ -231,4 +231,4 @@
 
 ### 09/05/19 (Jueves)
 * Salida 1 - 9:59 - 10:01 -> 2 minutos (puta locura...)
-* Salida 2 - 12:20 - 12:XX -> X minutos 
+* Salida 2 - 12:20 - 12:29 -> 9 minutos 
