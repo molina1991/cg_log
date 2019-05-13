@@ -237,3 +237,4 @@
 ### 13/05/19 (Lunes)
 * Salida 1 - 10:49 - 10:57 -> 8 minutos
 * Salida 2 - 13:20 - 13:28 -> 8 minutos
+* Salida 3 - 16:57 - 16:XX -> X minutos
