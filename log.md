@@ -229,7 +229,7 @@
 * Salida 2 - 13:02 - 13:13 -> 11 minutos
 * Salida 3 - 14:40 - 14:45 -> 5 minutos
 
-### 09/05/19 (Jueves)
+### 09/05/19 (Viernes)
 * Salida 1 - 9:59 - 10:01 -> 2 minutos (puta locura...)
 * Salida 2 - 12:20 - 12:29 -> 9 minutos
 * Salida 3 - 13:43 - 13:57 -> 14 minutos
@@ -239,3 +239,6 @@
 * Salida 2 - 13:20 - 13:28 -> 8 minutos
 * Salida 3 - 16:57 - 17:09 -> 12 minutos
 * Salida 4 - 18:14 - 18:26 -> 12 minutos
+
+### 14/05/19 (Martes)
+* Salida 1 - 10:52 - 1X:XX -> X minutos
