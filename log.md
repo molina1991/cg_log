@@ -242,4 +242,4 @@
 
 ### 14/05/19 (Martes)
 * Salida 1 - 10:52 - 11:04 -> 12 minutos
-* Salida 2 - 13:29 - 13:XX -> XX minutos
+* Salida 2 - 13:29 - 13:37 -> 8 minutos
