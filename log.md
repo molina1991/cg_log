@@ -243,3 +243,4 @@
 ### 14/05/19 (Martes)
 * Salida 1 - 10:52 - 11:04 -> 12 minutos
 * Salida 2 - 13:29 - 13:37 -> 8 minutos
+* Salida 3 - 15:30 - 15:38 -> 8 minutos (después de comer)
