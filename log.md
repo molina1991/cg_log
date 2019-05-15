@@ -246,3 +246,6 @@
 * Salida 3 - 15:30 - 15:38 -> 8 minutos (después de comer)
 * Salida 4 - 16:37 - 16:52 -> 15 minutos
 * Salida 5 - 18:00 - 18:06 -> 6 minutos
+
+### 15/05/19 (Miércoles)
+* Salida 1 - 10:47 - 10:XX -> X minutos
