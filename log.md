@@ -250,3 +250,4 @@
 ### 15/05/19 (Miércoles)
 * Salida 1 - 10:47 - 10:57 -> 10 minutos
 * Salida 2 - 12:52 - 13:04 -> 12 minutos
+* Salida 3 - 14:18 - 14:XX -> XX minutos
