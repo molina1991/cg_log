@@ -255,3 +255,4 @@
 
 ### 16/05/19 (Jueves)
 * Salida 1 - 10:47 - 10:57 -> 10 minutos
+* Salida 1 - 13:45 - 13:XX -> XX minutos
