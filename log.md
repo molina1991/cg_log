@@ -258,3 +258,4 @@
 
 ### 17/05/19 (Viernes)
 * Salida 1 - 11:16 - 11:25 -> 9 minutos
+* Salida 2 - 13:31 - 13:XX -> X minutos
