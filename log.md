@@ -268,5 +268,5 @@
 
 ### 21/05/19 (Martes)
 * Salida 1 - 10:36 - 10:49 -> 13 minutos
-* Salida 2 - 12:37 - 12:XX -> XX minutos
+* Salida 2 - 12:37 - 12:50 -> 13 minutos
 
