@@ -275,3 +275,4 @@
 
 ### 22/05/19 (Miércoles)
 * Salida 1 - 10:51 - 11:09 -> 18 minutos
+* Salida 2 - 13:04 - 13:13 -> 9 minutos
