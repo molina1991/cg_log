@@ -279,3 +279,4 @@
 
 ### 22/05/19 (Jueves)
 * Salida 1 - 11:10 - 11:16 -> 6 minutos
+* Salida 2 - 13:14 - 13:XX -> X minutos
