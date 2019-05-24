@@ -280,3 +280,7 @@
 ### 22/05/19 (Jueves)
 * Salida 1 - 11:10 - 11:16 -> 6 minutos
 * Salida 2 - 13:14 - 13:24 -> 10 minutos
+
+### 23/05/19 (Viernes)
+* Salida 1 - 10:45 - 10:53 -> 8 minutos
+* Salida 2 - 1X:XX - 1X:XX -> XX minutos
