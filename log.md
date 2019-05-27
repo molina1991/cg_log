@@ -288,4 +288,4 @@
 ### 27/05/19 (Lunes)
 * Salida 1 - 11:04 - 11:10 -> 6 minutos
 * Salida 2 - 13:06 - 13:15 -> 9 minutos
-* Salida 3 - 17:22 - 17:XX -> X minutos
+* Salida 3 - 17:22 - 17:34 -> 12 minutos
