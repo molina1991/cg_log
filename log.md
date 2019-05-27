@@ -284,3 +284,6 @@
 ### 23/05/19 (Viernes)
 * Salida 1 - 10:45 - 10:53 -> 8 minutos
 * Salida 2 - 13:14 - 13:24 -> 10 minutos
+
+### 27/05/19 (Lunes)
+* Salida 1 - 11:04 - 11:XX -> X minutos
