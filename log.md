@@ -292,4 +292,4 @@
 * Salida 4 - 18:43 - 18:47 -> 4 minutos
 
 ### 28/05/19 (Martes)
-* Salida 1 - 11:00 - 11:XX -> XX minutos
+* Salida 1 - 11:00 - 11:06 -> 6 minutos
