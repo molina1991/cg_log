@@ -299,3 +299,4 @@
 
 ### 03/06/19 (Lunes)
 * Salida 1 - 10:52 - 11:03 -> 11 minutos
+* Salida 2 - 13:12 - 13:XX -> XX minutos
