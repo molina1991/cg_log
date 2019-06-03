@@ -297,6 +297,8 @@
 * Salida 3 - 16:41 - 16:09 -> 9 minutos
 * Salida 4 - 17:50 - 18:00 -> 10 minutos
 
+### 29/05/19-31/05/19 (Miércoles-Jueves-Viernes -> Feria)
+
 ### 03/06/19 (Lunes)
 * Salida 1 - 10:52 - 11:03 -> 11 minutos
 * Salida 2 - 13:12 - 13:XX -> XX minutos
