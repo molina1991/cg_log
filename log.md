@@ -310,3 +310,6 @@
 * Salida 2 - 12:15 - 12:25 -> 10 minutos
 * Salida 3 - 16:46 - 16:56 -> 10 minutos
 * Salida 4 - 18:45 - 18:51 -> 6 minutos
+
+### 05/06/19 (Miércoles)
+* Salida 1 - 11:05 - 11:XXX -> XX minutos
