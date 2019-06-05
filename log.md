@@ -313,4 +313,4 @@
 
 ### 05/06/19 (Miércoles)
 * Salida 1 - 11:05 - 11:17 -> 12 minutos
-* Salida 2 - 13:12 - 13:XX -> XX minutos
+* Salida 2 - 13:12 - 13:23 -> 11 minutos
