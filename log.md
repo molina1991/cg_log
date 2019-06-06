@@ -318,4 +318,4 @@
 
 ### 06/06/19 (Jueves)
 * Salida 1 - 09:53 - 10:00 -> 7 minutos
-* Salida 2 - 12:08 - 12:XX -> XX minutos
+* Salida 2 - 12:08 - 12:19 -> 11 minutos
