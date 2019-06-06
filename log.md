@@ -16,7 +16,7 @@
 * Salida 4 - 11 min
 
 ### 18/03/19 (Lunes)
-* Salida 1 - 9:41 - 9:52 -> 11 minutos
+* Salida 1 - 09:41 - 09:52 -> 11 minutos
 * Salida 2 - 12:02 - 12:17 -> 15 minutos
 * Salida 3 - 13:43 - 14:00 -> 17 minutos
 * Salida 4 - 15:22 - 15:33 -> (11) 3 minutos
@@ -24,7 +24,7 @@
 * Salida 6 - 18:15 - 18:40 --> 25 minutos
 
 ### 19/03/19 (Martes)
-* Salida 1 - 9:22 - 9:31 -> 9 minutos
+* Salida 1 - 09:22 - 09:31 -> 9 minutos
 * Salida 2 - 12:04 - 12:17 -> 13 minutos
 * Salida 3 - 13:27 - 13:37 -> 10 minutos
 * Salida 4 - 15:30 - 15:32 -> 2 minutos
@@ -36,7 +36,7 @@
 * Salida 2 - 13:59 - 14:12 -> 12 minutos
 
 ### 21/03/19 (Jueves)
-* Salida 1 - 9:21 - 9:30 -> 9 minutos
+* Salida 1 - 09:21 - 09:30 -> 9 minutos
 * Salida 2 - 11:47 - 11:58 -> 11 minutos
 * Salida 3 - 14:38 - 14:49 -> 11 minutos
 
@@ -45,7 +45,7 @@
 * Salida 2 - 14:16 - 14:25 -> 9 minutos
 
 ### 25/03/19 (Lunes)
-* Salida 1 - 9:44 - 9:57 -> 13 minutos
+* Salida 1 - 09:44 - 09:57 -> 13 minutos
 * Salida 2 - 12:01 - 12:14 -> 13 minutos
 * Salida 3 - 13:13 - 13:27 -> 14 minutos
 * Salida 4 - 15:30 - 15:36 -> 6 minutos (se fue a las 15:10 del comedor)
@@ -65,13 +65,13 @@
 * Salida 3 - 14:56 - 15:00 -> 4 minutos
 
 ### 28/03/19 (Jueves)
-* Salida 1 - 9:53 - 10:00 -> 7 minutos
+* Salida 1 - 09:53 - 10:00 -> 7 minutos
 * Salida 2 - 11:14 - 11:31 -> 16 minutos
 * Salida 3 - 13:09 - 13:18 -> 9 minutos
 * Salida 4 - 14:40 - 14:49 -> 9 minutos
 
 ### 29/03/19 (Viernes)
-* Salida 1 - 9:35 - 9:45 -> 10 minutos
+* Salida 1 - 09:35 - 09:45 -> 10 minutos
 * Salida 2 - 11:12 - 11:23 -> 11 minutos
 * Salida 3 - 14:09 - 14:21 -> 12 minutos
 
@@ -92,7 +92,7 @@
 * Salida 4 - 18:30 - 18:50 -> 20 minutos
 
 ### 03/04/19 (Miércoles)
-* Salida 1 - 9:02 - 9:12 -> 10 minutos
+* Salida 1 - 09:02 - 09:12 -> 10 minutos
 * Salida 2 - 11:06 - 11:09 -> 3 minutos
 * Salida 3 - 13:00 - 13:08 -> 8 minutos
 * Salida 4 - 14:33 - 14:45 -> 12 minutos
@@ -108,7 +108,7 @@
 * Salida 3 - 14:32 - 14:41 - 9 minutos
 
 ### 08/04/19 (Lunes)
-* Salida 1 - 9:48 - 9:58 -> 10 minutos
+* Salida 1 - 09:48 - 09:58 -> 10 minutos
 * Salida 2 - 12:36 - 12:44 -> 8 minutos
 * Salida 3 - 16:42 - 16:53 -> 11 minutos
 * Salida 4 - 18:05 - 18:25 -> 20 minutos
@@ -136,26 +136,26 @@
 * Salida 3 - 14:09 - 14:17 -> 8 minutos
 
 ### 15/04/19 (Lunes)
-* Salida 1 - 8:41 - 8:48 -> 7 minutos (Hoy llegó 30 min tarde, seguro que no cagó en casa con las prisas)
-* Salida 2 - 13:32- 13:46 -> 14 minutos
-* Salida 3 - 17:22- 17:31 -> 9 minutos
+* Salida 1 - 08:41 - 08:48 -> 7 minutos (Hoy llegó 30 min tarde, seguro que no cagó en casa con las prisas)
+* Salida 2 - 13:32 - 13:46 -> 14 minutos
+* Salida 3 - 17:22 - 17:31 -> 9 minutos
 
 ### 16/04/19 (Martes)
-* Salida 1 - 9:17 - 9:26 -> 9 minutos
+* Salida 1 - 09:17 - 09:26 -> 9 minutos
 * Salida 2 - 10:59 - 11:07 -> 8 minutos
 * Salida 3 - 12:35 - 12:48 -> 13 minutos
 * Salida 4 - 16:39 - 16:53 -> 14 minutos
 * Salida 5 - 18:17 - 18:28 -> 11 minutos
 
 ### 17/04/19 (Miércoles)
-* Salida 1 - 9:43 - 9:51 -> 8 minutos
+* Salida 1 - 09:43 - 09:51 -> 8 minutos
 * Salida 2 - 11:04 - 11:09 -> 5 minutos
 * Salida 3 - 12:33 - 12:37 -> 4 minutos
 
 ### PUENTASO
 
 ### 22/04/19 (Lunes)
-* Salida 1 - 9:13 - 9:22 -> 9 minutos
+* Salida 1 - 09:13 - 09:22 -> 9 minutos
 * Salida 2 - 11:53 - 12:02 -> 9 minutos
 * Salida 3 - 14:13 - 14:23 -> 10 minutos
 * Salida 4 - 17:02 - 17:14 -> 12 minutos
@@ -208,7 +208,7 @@
 * Salida 2 - 12:45 - 12:57 -> 12 minutos
 
 ### 06/05/19 (Lunes)
-* Salida 1 - 8:54 - 9:02 -> 8 minutos
+* Salida 1 - 08:54 - 09:02 -> 8 minutos
 * Salida 2 - 10:44 - 11:00 -> 16 minutos
 * Salida 3 - 13:22 - 13:36 -> 14 minutos
 * Salida 4 - 16:21 - 16:35 -> 14 minutos
@@ -230,7 +230,7 @@
 * Salida 3 - 14:40 - 14:45 -> 5 minutos
 
 ### 09/05/19 (Viernes)
-* Salida 1 - 9:59 - 10:01 -> 2 minutos (puta locura...)
+* Salida 1 - 09:59 - 10:01 -> 2 minutos (puta locura...)
 * Salida 2 - 12:20 - 12:29 -> 9 minutos
 * Salida 3 - 13:43 - 13:57 -> 14 minutos
 
@@ -314,3 +314,8 @@
 ### 05/06/19 (Miércoles)
 * Salida 1 - 11:05 - 11:17 -> 12 minutos
 * Salida 2 - 13:12 - 13:23 -> 11 minutos
+(Problemas técnicos, no tenemos más datos de este da, al menos 2 salidas más y problablemente de 10 min cada una)
+
+### 06/06/19 (Jueves)
+* Salida 1 - 09:53 - 10:00 -> 7 minutos
+* Salida 2 - XX:XX - XX:XX -> XX minutos
