@@ -322,4 +322,4 @@
 * Salida 3 - 14:40 - 14:49 -> 9 minutos
 
 ### 07/06/19 (Viernes)
-* Salida 1 - 10:56 - 11:XX -> X minutos
+* Salida 1 - 10:56 - 11:04 -> 8 minutos
