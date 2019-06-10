@@ -327,4 +327,4 @@
 
 ### 10/06/19 (Lunes)
 * Salida 1 - 10:45 - 10:55 -> 10 minutos
-* Salida 2 - 13:08 - 13:XX -> XX minutos
+* Salida 2 - 13:08 - 13:20 -> 12 minutos
