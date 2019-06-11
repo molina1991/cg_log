@@ -335,4 +335,4 @@
 * Salida 1 - 09:53 - 09:57 -> 5 minutos
 * Salida 2 - 12:15 - 12:24 -> 9 minutos
 * Salida 3 - 13:59 - 14:10 -> 11 minutos
-* Salida 4 - 16:31 - 16:XX -> XX minutos
+* Salida 4 - 16:31 - 16:41 -> 10 minutos
