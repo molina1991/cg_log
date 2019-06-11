@@ -333,4 +333,4 @@
 
 ### 11/06/19 (Martes)
 * Salida 1 - 09:53 - 09:57 -> 5 minutos
-* Salida 2 - 12:15 - 12:XX -> X minutos
+* Salida 2 - 12:15 - 12:24 -> 9 minutos
