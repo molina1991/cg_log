@@ -339,4 +339,4 @@
 * Salida 5 - 17:56 - 17:59 -> 3 minutos
 
 ### 12/06/19 (Miércoles)
-* Salida 1 - 10:53 - 1X:XX -> XX minutos
+* Salida 1 - 10:53 - 11:00 -> 7 minutos
