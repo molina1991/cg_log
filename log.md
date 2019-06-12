@@ -341,3 +341,4 @@
 ### 12/06/19 (Miércoles)
 * Salida 1 - 10:53 - 11:00 -> 7 minutos
 * Salida 2 - 13:12 - 13:23 -> 11 minutos
+* Salida 3 - 14:26 - 14:38 -> 12 minutos
