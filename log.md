@@ -345,3 +345,4 @@
 
 ### 13/06/19 (Jueves)
 * Salida 1 - 09:54 - 10:01 -> 7 minutos
+* Salida 2 - 12:03 - 12:XX -> X minutos
