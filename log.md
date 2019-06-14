@@ -350,4 +350,4 @@
 
 ### 14/06/19 (Viernes)
 * Salida 1 - 10:45 - 10:55 -> 10 minutos
-* Salida 2 - 13:59 - 14:XX -> XX minutos
+* Salida 2 - 13:59 - 14:09 -> 10 minutos
