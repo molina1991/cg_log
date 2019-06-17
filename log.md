@@ -354,3 +354,4 @@
 
 ### 17/06/19 (Lunes)
 * Salida 1 - 11:00 - 11:08 -> 8 minutos
+* Salida 2 - 13:15 - 13:XX -> X minutos
