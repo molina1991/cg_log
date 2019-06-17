@@ -357,3 +357,4 @@
 * Salida 2 - 13:15 - 13:25 -> 10 minutos
 * Salida 3 - 16:13 - 16:21 -> 8 minutos
 * Salida 4 - 17:57 - 18:07 -> 10 minutos
+* Salida 5 - 18:48 - 18:49 -> 1 minutos (WTF!!! sale con cara de me cago y vuelve al minuto... tiene la botella de agua llena, no puede haber sido beber en la fuente)
