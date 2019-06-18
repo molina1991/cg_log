@@ -362,4 +362,4 @@
 ### 18/06/19 (Martes)
 * Salida 1 - 10:57 - 11:03 -> 6 minutos
 * Salida 2 - 13:22 - 13:31 -> 9 minutos
-* Salida 3 - 16:48 - 17:XX -> X minutos
+* Salida 3 - 16:48 - 17:57 -> 9 minutos
