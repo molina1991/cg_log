@@ -360,4 +360,4 @@
 * Salida 5 - 18:48 - 18:49 -> 1 minutos (WTF!!! sale con cara de me cago y vuelve al minuto... tiene la botella de agua llena, no puede haber sido beber en la fuente)
 
 ### 18/06/19 (Martes)
-* Salida 1 - 10:57 - 11:XX -> X minutos
+* Salida 1 - 10:57 - 11:03 -> 6 minutos
