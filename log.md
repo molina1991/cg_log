@@ -369,3 +369,6 @@
 * Salida 1 - 11:04 - 11:13 -> 9 minutos
 * Salida 2 - 13:09 - 13:18 -> 9 minutos
 * Salida 3 - 14:46 - 14:53 -> 7 minutos
+
+### 20/06/19 (Jueves)
+* Salida 1 - 11:07 - 11:XX -> X minutos
