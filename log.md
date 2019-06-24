@@ -378,3 +378,6 @@
 ### 21/06/19 (Viernes)
 * Salida 1 - 11:23 - 11:32 -> 9 minutos
 * Salida 1 - 13:24 - 13:36 -> 12 minutos
+
+### 24/06/19 (Lunes)
+* Salida 1 - 11:00 - 11:09 -> 9 minutos
