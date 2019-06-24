@@ -382,4 +382,4 @@
 ### 24/06/19 (Lunes)
 * Salida 1 - 11:00 - 11:09 -> 9 minutos
 * Salida 2 - 13:24 - 13:31 -> 7 minutos
-* Salida 3 - 16:31 - 16:XX -> X minutos
+* Salida 3 - 16:31 - 16:41 -> 10 minutos
