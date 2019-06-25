@@ -386,4 +386,5 @@
 * Salida 4 - 17:31 - 17:44 -> 13 minutos
 
 ### 25/06/19 (Martes)
-* Salida 1 - 10:42 - 10:50-> 8 minutos
+* Salida 1 - 10:42 - 10:50 -> 8 minutos
+* Salida 2 - 12:47 - 12:57 -> 10 minutos
