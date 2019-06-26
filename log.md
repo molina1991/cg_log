@@ -394,3 +394,4 @@
 
 ### 26/06/19 (Miércoles)
 * Salida 1 - 10:41 - 10:49 -> 8 minutos
+* Salida 1 - 13:03 - 13:XX -> X minutos
